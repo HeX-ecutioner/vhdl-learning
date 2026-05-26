@@ -1,4 +1,4 @@
-# Simple VHDL example of AND, OR and XOR gates design and testbench.
+# Implementation of basic logic gates like AND, OR and XOR
 
 ## Configuration
 
