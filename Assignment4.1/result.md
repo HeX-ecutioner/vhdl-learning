@@ -1,4 +1,4 @@
-# Implementation of 8-bit Adder using Carry Save Adder
+# Design of a 2-bit by 2-bit Unsigned Multiplier
 
 ## Configuration
 
