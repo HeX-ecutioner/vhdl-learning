@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.md linguist-documentation=false
+*.md linguist-detectable
+*.vhd linguist-documentation=false
+*.vhd linguist-detectable
